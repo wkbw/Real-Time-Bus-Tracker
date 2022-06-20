@@ -9,7 +9,6 @@
     <li><a href="#description">Description</a></li>
     <li><a href="#how-to-run">How to Run</a></li>
     <li><a href="#roadmap-of-future-improvements">Roadmap of Future Improvements</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
      <ul>
         <li><a href="#data-extracts">Data Extracts</a></li>
         <li><a href="#mapbox-gl-js-custom-icons-with-markers">Mapbox GL</a></li>
@@ -20,17 +19,6 @@
 
 ## Description
 This is a theoretical bus trip taken with my dog to his favorite dog park with an optional mid-trip stop at another dog park. 
-
-
-## Installation 
-##CHANGE ME
-To install
-
-Install From Source
-$ git clone https://www.github.com/alichtman/shallow-backup.git
-$ cd shallow-backup
-$ pip3 install .
-
 
 ## How to Run
 To run, click the ___Dog Park Bus Trip Fun!___ button on the map. The marker will start moving along the bus route to the dog parks.
