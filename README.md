@@ -44,7 +44,7 @@ I added a few Mapbox features based on [this example](https://docs.mapbox.com/ma
 * The *bus-button* class was added to the stylesheet and the button text changed to explain the map 
 
 ## [How to Run]
-To run, click the Dog Park Bus Trip Fun! button on the map. The marker will start moving along the bus route to the dog parks.
+To run, click the <font color="red">Dog Park Bus Trip Fun!</font> button on the map. The marker will start moving along the bus route to the dog parks.
 
 ## Improvements to Enhance Features/Functionality
 This map could be improved by:
