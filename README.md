@@ -5,12 +5,12 @@
 ## Description
 This is a theoretical bus trip taken with my dog to his favorite dog park with an optional mid-trip stop at another dog park. 
 
-#### Data Extracts
+### Data Extracts
 * Bus route data was extracted from Sound Transit Open Transit Data GTFS files made available via download at the [developer resources](http://www.soundtransit.org/Developer-resources/Data-downloads) section.
 
 * This information was used to identify coordinates to/from local dog parks. 
 
-#### Mapbox GL JS Custom Icons with Markers
+### Mapbox GL JS Custom Icons with Markers
 I added a few Mapbox features based on [this example](https://docs.mapbox.com/mapbox-gl-js/example/custom-marker-icons/). Those features are:
 * Three custom icons markers added to map using a GeoJSON to place the custom markers. 
 * A popup message appears when a puppy icon is clicked. This message explains why this stop is highlighted on the route.
