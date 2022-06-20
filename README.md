@@ -1,8 +1,10 @@
 # Real-Time-Bus-Tracker
 
 ###### This README file is a companion to the Real-Time-Bus-Tracker Exercise completed during Week 9 of the Professional Certificate in Coding Cohort. 
+## Contents
+(How to Run)
 
-## Description
+## About This Project
 This is a theoretical bus trip taken with my dog to his favorite dog park with an optional mid-trip stop at another dog park. 
 
 ### Data Extracts
@@ -16,7 +18,7 @@ I added a few Mapbox features based on [this example](https://docs.mapbox.com/ma
 * A popup message appears when a puppy icon is clicked. This message explains why this stop is highlighted on the route.
 * The *bus-button* class was added to the stylesheet and the button text changed to explain the map 
 
-## How to Run
+## [How to Run]
 To run, click the Dog Park Bus Trip Fun! button on the map. The marker will start moving along the bus route to the dog parks.
 
 ## Improvements to Enhance Features/Functionality
