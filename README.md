@@ -5,7 +5,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <ul>
     <li><a href="#description">Description</a></li>
     <li><a href="#how-to-run">How to Run</a></li>
     <li><a href="#roadmap-of-future-improvements">Roadmap of Future Improvements</a></li>
@@ -13,15 +13,15 @@
         <li><a href="#data-extracts">Data Extracts</a></li>
         <li><a href="#mapbox-gl-js-custom-icons-with-markers">Mapbox GL</a></li>
       </ul>
-    <li><a href="#license">License</a></li>
-  </ol>
+    <li><a href="#license-information">License Information</a></li>
+  </ul>
 </details>
 
 ## Description
 This is a theoretical bus trip taken with my dog to his favorite dog park with an optional mid-trip stop at another dog park. 
 
 ## How to Run
-* Open the Real Time Bus Tracker [index.html](https://wkbw.github.io/Real-Time-Bus-Tracker/).
+* Open the Real Time Bus Tracker by clicking on [index.html](https://wkbw.github.io/Real-Time-Bus-Tracker/).
 * Click on each of the three dog images to display relevant information about those chosen bus stops. 
 * Click ___OK___ to dismiss the pop-up.
 * Click the ___Dog Park Bus Trip Fun!___ button, which is located in the upper-left corner of the map. Watch as the marker moves along the bus route to stopping only at our final  dog park destination, *Wiggly Field Off-Leash Dog Park*.
